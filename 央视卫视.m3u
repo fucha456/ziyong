@@ -1066,7 +1066,7 @@ http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b473
 #EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.top/logo/CHC动作电影.png",CHC动作电影
 https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.top/logo/CHC家庭影院.png",CHC家庭影院
-http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
+http://58.46.209.26:4022/udp/239.76.245.241:1234
 #EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.top/logo/CHC影迷电影.png",CHC影迷电影
 http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.top/logo/CHC华诚影视.png",CHC华诚影视

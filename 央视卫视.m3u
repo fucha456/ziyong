@@ -1064,7 +1064,7 @@ http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州新闻综合.png",湖州新闻综合
 http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&fbl=
 #EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.top/logo/CHC动作电影.png",CHC动作电影
-http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
+https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.top/logo/CHC家庭影院.png",CHC家庭影院
 http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.top/logo/CHC影迷电影.png",CHC影迷电影

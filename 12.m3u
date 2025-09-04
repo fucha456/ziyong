@@ -32,7 +32,7 @@ http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="📺浩哥央视",CCTV-15
 http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="📺浩哥央视",CCTV-16奥林匹克
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
+https://stream1.freetv.fun/ipv6-cctv-16-3.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺浩哥央视",CCTV-17农业农村
 https://migu.188766.xyz/?migutoken=4c710737207adeea17ac77e603bd2514&id=CCTV17&pp=1
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="📺浩哥央视",CGTN英语
